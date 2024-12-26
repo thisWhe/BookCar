@@ -13,9 +13,9 @@ namespace UdemyCarBook.Application.Features.CQRS.Handlers.AboutHandlers
 {
     public class GetAboutByIdQueryHandler
     {
-        private readonly IRepository<About> _repository;   //IRepositoryden About sınıfı için bir örnek al 
+        private readonly IRepository<About> _repository;  
 
-        public GetAboutByIdQueryHandler(IRepository<About> repository) // generator constructor yapıcı metodu olusturuyoruz ctrl + . classın ustundeyken
+        public GetAboutByIdQueryHandler(IRepository<About> repository) 
         {
             _repository = repository;
         }
