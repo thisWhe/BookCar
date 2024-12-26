@@ -21,12 +21,12 @@ namespace UdemyCarBook.Application.Features.CQRS.Handlers.AboutHandlers
         {
             var values = await _repository.GetByIdAsync(command.AboutID);
 
-            //güncelle
+            
             values.Title = command.Title;
             values.Description = command.Description;
             values.ImageUrl = command.ImageUrl;
 
-            //guncellemeyi kaydet
+            
             await _repository.UpdateAsync(values);
         }
     }
