@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 namespace UdemyCarBook.Application.Features.CQRS.Queries.AboutQueries
 {
     public class GetAboutByIdQuery
-    { // Queries Şartlı listeleme işlemlerinin propları olur
+    { 
 
-        public GetAboutByIdQuery(int id) //Idyi cagırıcagımız için class yazısının üstüne geliyoruz ctrl + . diyip generator constructora basıyoruz yapıcı metodumuz oluyor
+        public GetAboutByIdQuery(int id) 
 
         {
             Id = id;
