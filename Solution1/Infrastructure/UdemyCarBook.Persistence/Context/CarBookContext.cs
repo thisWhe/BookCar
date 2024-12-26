@@ -10,11 +10,11 @@ namespace UdemyCarBook.Persistence.Context
 {
     public class CarBookContext : DbContext
     {
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder) // veritabanı bağlantısı 
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder) 
         {                                                              //Catalog = "Veritabanına yansıyacak isim"
             optionsBuilder.UseSqlServer("Server=DESKTOP-RA4ABQ2\\SQLEXPRESS;initial Catalog=UdemyCarBookDb; integrated Security=true;TrustServerCertificate=true;");
         }
-        // bütün entityleri DbSet<> türünde göndermek için buraya yazmak gerekiyor 
+        
         public DbSet<About> Abouts { get; set; }
         public DbSet<Banner> Banners { get; set; }
         public DbSet<Brand> Brands { get; set; }
