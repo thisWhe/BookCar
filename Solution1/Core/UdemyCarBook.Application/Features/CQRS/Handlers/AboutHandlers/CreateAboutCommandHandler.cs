@@ -11,7 +11,7 @@ namespace UdemyCarBook.Application.Features.CQRS.Handlers.AboutHandlers
 {
     public class CreateAboutCommandHandler
     {
-        private readonly IRepository<About> _repository; // Irepositoryden about sınıfı için miras al
+        private readonly IRepository<About> _repository; 
 
         public CreateAboutCommandHandler(IRepository<About> repository)
         {
