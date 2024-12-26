@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace UdemyCarBook.Application.Features.CQRS.Commands.AboutCommands
 {
-    public class UpdateAboutCommand //  eğer command sınıflarımız varsa bunların handlerlarını yazabiliriz AboutHandlers klasorünün içine CreateAboutCommandHandler classını olusturuyoruz public sekilde
-    {
+    public class UpdateAboutCommand 
         public int AboutID { get; set; }
         public string Title { get; set; }
         public string Description { get; set; }
