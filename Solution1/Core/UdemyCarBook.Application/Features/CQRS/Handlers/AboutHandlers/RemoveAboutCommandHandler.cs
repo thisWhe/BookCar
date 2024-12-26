@@ -21,12 +21,9 @@ namespace UdemyCarBook.Application.Features.CQRS.Handlers.AboutHandlers
         public async Task Handle(RemoveAboutCommand command)
         {
             var value = await _repository.GetByIdAsync(command.Id);
-            //if (value == null)
-            // {
-            //    throw new KeyNotFoundException($"About entity with ID {command.Id} not found.");
-            // }
+          
 
-            //about nesnesini sil
+
             await _repository.RemoveAsync(value);
         }
 
