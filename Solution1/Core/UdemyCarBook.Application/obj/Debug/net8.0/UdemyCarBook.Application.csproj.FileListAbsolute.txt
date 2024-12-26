@@ -1,0 +1,15 @@
+C:\Users\Emir\Desktop\deneme\Solution1\Core\UdemyCarBook.Application\bin\Debug\net8.0\UdemyCarBook.Application.deps.json
+C:\Users\Emir\Desktop\deneme\Solution1\Core\UdemyCarBook.Application\bin\Debug\net8.0\UdemyCarBook.Application.dll
+C:\Users\Emir\Desktop\deneme\Solution1\Core\UdemyCarBook.Application\bin\Debug\net8.0\UdemyCarBook.Application.pdb
+C:\Users\Emir\Desktop\deneme\Solution1\Core\UdemyCarBook.Application\bin\Debug\net8.0\UdemyCarBook.Domain.dll
+C:\Users\Emir\Desktop\deneme\Solution1\Core\UdemyCarBook.Application\bin\Debug\net8.0\UdemyCarBook.Domain.pdb
+C:\Users\Emir\Desktop\deneme\Solution1\Core\UdemyCarBook.Application\obj\Debug\net8.0\UdemyCarBook.Application.csproj.AssemblyReference.cache
+C:\Users\Emir\Desktop\deneme\Solution1\Core\UdemyCarBook.Application\obj\Debug\net8.0\UdemyCarBook.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emir\Desktop\deneme\Solution1\Core\UdemyCarBook.Application\obj\Debug\net8.0\UdemyCarBook.Application.AssemblyInfoInputs.cache
+C:\Users\Emir\Desktop\deneme\Solution1\Core\UdemyCarBook.Application\obj\Debug\net8.0\UdemyCarBook.Application.AssemblyInfo.cs
+C:\Users\Emir\Desktop\deneme\Solution1\Core\UdemyCarBook.Application\obj\Debug\net8.0\UdemyCarBook.Application.csproj.CoreCompileInputs.cache
+C:\Users\Emir\Desktop\deneme\Solution1\Core\UdemyCarBook.Application\obj\Debug\net8.0\UdemyCar.7CD4E403.Up2Date
+C:\Users\Emir\Desktop\deneme\Solution1\Core\UdemyCarBook.Application\obj\Debug\net8.0\UdemyCarBook.Application.dll
+C:\Users\Emir\Desktop\deneme\Solution1\Core\UdemyCarBook.Application\obj\Debug\net8.0\refint\UdemyCarBook.Application.dll
+C:\Users\Emir\Desktop\deneme\Solution1\Core\UdemyCarBook.Application\obj\Debug\net8.0\UdemyCarBook.Application.pdb
+C:\Users\Emir\Desktop\deneme\Solution1\Core\UdemyCarBook.Application\obj\Debug\net8.0\ref\UdemyCarBook.Application.dll
